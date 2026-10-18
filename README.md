@@ -1,7 +1,7 @@
 # Fuzzy_Project
 High Performance Computer clusters consume significant energy when compute nodes remain idle. This project aims to develop a fuzzy logic-based resource management system that prioritises compute nodes for activation or shutdown based on their idle time, workload demand, and job waiting time.
 
-Acknowledgements and Research Foundation
+**Acknowledgements and Research Foundation**
 This project is inspired by the research paper:
 Cocaña-Fernández, A., San José Guiote, E., Sánchez, L., & Ranilla, J. (2019). Eco-Efficient Resource Management in HPC Clusters through Computer Intelligence Techniques. Energies, 12(11), 2129.
 
